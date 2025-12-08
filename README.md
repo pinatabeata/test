@@ -1,10 +1,4 @@
 <html>
-  <head>
-    <style>
-      body {
-        font-family: Impact, sans-serif;
-        background-color: #ff007b;
-      }
     </style>
   </head>
 
