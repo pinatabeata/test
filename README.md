@@ -1,5 +1,5 @@
 <html>
-    </style>
+ 
   </head>
 
   <body>
